@@ -1,0 +1,21 @@
+*{
+    background-color: #e2e3d1 ;
+}
+
+h1{
+    text-align: center;
+    font-size: 72px;
+}
+
+img{
+    height: auto;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.recipe-contents{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 400px;
+    top: 150px;
+}
