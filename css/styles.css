@@ -1,19 +1,28 @@
 *{
-    background-color: #e2e3d1 ;
+    background-color: #e2e3d1;
+    text-align: center;
 }
 
 h1{
-    font-size: 100px;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
+    font-size: 72px;
 }
 
-ul{
-    text-align: center;
+h1, ul li a{
+    color: #423e3e;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 ul li a{
-    color: rgb(9, 116, 238);
-    text-decoration: none;
-    font-size: 32px;
+    text-decoration: none;   
+    font-size: 28px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+h3{
+    margin-left: 40px;
+    color: rgb(161, 24, 24);
+    margin-top: 50px;
 }
